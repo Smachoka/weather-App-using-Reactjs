@@ -4,7 +4,7 @@ This a simple react Weather application that allow users to check weather for sp
 
 ## Features of the app
 
-Ypu only need to type city name in the search box then enter specific date you want to check the weather and then click the search icon.
+You only need to type city name in the search box then enter specific date you want to check the weather and then click the search icon.
 The app will display temperature in celcius ,humidity in percentage, wind in km/h and the icons to show the weather condition.
 
 ### How to run the project.
